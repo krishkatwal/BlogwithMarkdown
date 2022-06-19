@@ -1,0 +1,9 @@
+First make a folder
+install init and package.json will appear
+install express , mongoose, ejs
+install nodemon ( nodemon wii automactically save website when we refresh it)
+make server.js 
+set view engine to ejs
+make index.ejs
+make routes  fo articles
+make new.ejs for new article
